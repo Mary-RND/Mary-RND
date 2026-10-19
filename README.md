@@ -9,8 +9,10 @@
 **Вайб-кодер и веб-разработчик.** Делаю сайты, ИИ-ботов, трекеры и автоматизацию для малого бизнеса и MedTech.
 
 [![Портфолио](https://img.shields.io/badge/Portfolio-8%20%D0%BA%D0%B5%D0%B9%D1%81%D0%BE%D0%B2-1f6f5c?style=for-the-badge&logo=githubpages&logoColor=white)](https://mary-rnd.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-mar.petrushina%40yandex.ru-e5524b?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mar.petrushina@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-%40marypetrova6-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marypetrova6)
+[![VK](https://img.shields.io/badge/VK-%40marina__petrushina-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/marina_petrushina)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B7%20985%20728--66--55-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79857286655)
+[![Email](https://img.shields.io/badge/Email-mar.petrushina%40yandex.ru-e5524b?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mar.petrushina@yandex.ru)
 
 </div>
 
@@ -103,12 +105,17 @@
 
 ## Ещё кейсы
 
+- [Task Dispatcher — командный центр входящих задач](https://mary-rnd.github.io/task-dispatcher/) — KPI, фокус дня, нагрузка команды, поиск дублей и сводка для планёрки. [Код](https://github.com/Mary-RND/task-dispatcher)
+- [EventFlow — участники мероприятия](https://mary-rnd.github.io/eventflow/) — CRUD, поиск и фильтры, импорт CSV с предпросмотром ошибок, бэкапы JSON. [Код](https://github.com/Mary-RND/eventflow)
+- [Route Planner — планировщик путешествий](https://mary-rnd.github.io/route-planner/) — маршрут по дням, бюджет, бронирования и чек-лист, офлайн. [Код](https://github.com/Mary-RND/route-planner)
 - [Лендинг вебинара по ИИ-аналитике](https://mary-rnd.github.io/vebinar-ii-analitik-landing/) — форма регистрации, таймер, Open Graph. [Код](https://github.com/Mary-RND/vebinar-ii-analitik-landing)
 - [Дашборд закупок MedTech](https://mary-rnd.github.io/procurement-demo/) — сравнение предложений поставщиков и сводка. [Код](https://github.com/Mary-RND/procurement-demo)
 - [Аналитика рынка инфузионных насосов](https://mary-rnd.github.io/infusion-pumps-dashboard/) — конкуренты, цены, закупки, 2025–2026. [Код](https://github.com/Mary-RND/infusion-pumps-dashboard)
 - [ИИ-бот для VK](https://github.com/Mary-RND/vk-ai-assistant) — GigaChat API, 20 сообщений контекста, fallback на менеджера.
 - [Обезличиватель данных](https://github.com/Mary-RND/data-depersonalizer) — Excel/Word, обратная конвертация по ключу, 152-ФЗ.
 - [Sport Land](https://mary-rnd.github.io/sport-land-v2-landing/) — лендинг сети фитнес-клубов: программы, тренеры, запись. [Код](https://github.com/Mary-RND/sport-land-v2-landing)
+
+[Все публичные проекты →](https://github.com/Mary-RND?tab=repositories)
 
 ---
 
@@ -145,14 +152,16 @@
 ## Контакты
 
 - **Портфолио:** [mary-rnd.github.io/portfolio](https://mary-rnd.github.io/portfolio/)
-- **Email:** [mar.petrushina@yandex.ru](mailto:mar.petrushina@yandex.ru)
+- **Telegram:** [@marypetrova6](https://t.me/marypetrova6)
+- **VK:** [@marina_petrushina](https://vk.com/marina_petrushina)
 - **WhatsApp:** [+7 985 728-66-55](https://wa.me/79857286655)
+- **Email:** [mar.petrushina@yandex.ru](mailto:mar.petrushina@yandex.ru)
 - **GitHub:** [@Mary-RND](https://github.com/Mary-RND)
 - **География:** Москва, работаю удалённо; беру проекты по всей России.
 
 ### Есть задача?
 
-Напишите в WhatsApp или на почту. Отвечу в течение дня, задам 3–5 вопросов и предложу вилку по срокам и цене. Без обязательств и «менеджерского» тона.
+Напишите в [Telegram](https://t.me/marypetrova6), [VK](https://vk.com/marina_petrushina), WhatsApp или на почту. Отвечу в течение дня, задам 3–5 вопросов и предложу вилку по срокам и цене. Без обязательств и «менеджерского» тона.
 
 <sub>Open to freelance projects: landing pages, AI assistants, task trackers, data automation. Remote, worldwide.</sub>
 
