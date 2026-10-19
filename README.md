@@ -1,130 +1,159 @@
-# 👋 Привет! Я — Марина Петрушина
-
 <div align="center">
 
-### 🩺 MD | 🚀 CEO & Founder @ AI Predictive Medicine Lab
+<a href="https://mary-rnd.github.io/portfolio/">
+  <img src="assets/banner.webp" alt="Марина Петрушина — сайты, ИИ-боты и трекеры для малого бизнеса и MedTech" width="100%">
+</a>
 
-*Врач-клиницист, превращающий медицинские данные в точные прогнозы*
+# Марина Петрушина
 
-![Location](https://img.shields.io/badge/Location-Moscow%2C%20Russia-blue?style=for-the-badge&logo=mapbox)
-![Status](https://img.shields.io/badge/Building-Deep%20Tech%20for%20Healthcare-green?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Predictive%20Medicine%20%7C%20GNN%20%7C%20Web3-purple?style=for-the-badge)
+**Вайб-кодер и веб-разработчик.** Делаю сайты, ИИ-ботов, трекеры и автоматизацию для малого бизнеса и MedTech.
+
+[![Портфолио](https://img.shields.io/badge/Portfolio-8%20%D0%BA%D0%B5%D0%B9%D1%81%D0%BE%D0%B2-1f6f5c?style=for-the-badge&logo=githubpages&logoColor=white)](https://mary-rnd.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-mar.petrushina%40yandex.ru-e5524b?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mar.petrushina@yandex.ru)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B7%20985%20728--66--55-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79857286655)
 
 </div>
 
----
+> «Сначала — задача и ответственность. Потом — код».
+>
+> 20+ лет в медицинском бизнесе и 10+ лет клинической практики. Понимаю, где данные, деньги и ответственность, — и собираю продукты, которые решают задачу, а не просто красиво выглядят.
 
-## 🎯 Обо мне
-
-Я нахожусь на стыке **клинической медицины** и **передовых технологий**:
-- 🩺 **10+ лет** клинической практики
-- 💼 **20+ лет** в медицинском бизнесе
-- 🧬 Основатель и руководитель **R&D центра AI Predictive Medicine Lab** (ООО «МедТехПрима»)
-- 🎯 Разрабатываю **предиктивные ИИ-решения** для персонализированной медицины
-- 🔐 Фокус на **технологическом суверенитете**, безопасности данных и объяснимом ИИ (white-box)
-
-> *«Мы не просто диагностируем — мы предсказываем. Наши решения помогают врачам принимать решения до того, как проблема станет критической.»*
+**Стек:** HTML/CSS/JS · React · Next.js · TypeScript · Three.js · Python · GigaChat и OpenAI API · VK/Telegram-боты · GitHub Pages.
 
 ---
 
-## 🚀 Текущие проекты
+## Что я делаю
 
-| Проект | Направление | Статус |
-|--------|-------------|--------|
-| 🧬 **VitaGen-AI** | Репродуктивная медицина, мультимодальная предикция исходов ВРТ | Прототип, клиническая валидация |
-| ❤️ **Vascular-AI** | Кардиология, персонализированный подбор терапии АГ | Прототип, ретроспективная валидация |
-| 🧠 **NeuroSphere-AI / NeuroBridge-AI / Talk-AI** | Экосистема нейрореабилитации | Архитектура, в разработке |
-| 🥽 **VR-тренажёр проводниковой анестезии** | Медицинское образование (Mixed Reality) | Готов к пилотному внедрению |
-
-> ⚠️ *Все проекты находятся в стадии R&D и клинической валидации. Не являются медицинскими изделиями до получения РУ Росздравнадзора.*
-
----
-
-## 🛠️ Технологический стек
-
-### 🧠 AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![GNN](https://img.shields.io/badge/GNN-Graph%20Neural%20Networks-orange?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge)
-![Federated Learning](https://img.shields.io/badge/Federated%20Learning-Privacy--first-blue?style=for-the-badge)
-![Explainable AI](https://img.shields.io/badge/XAI-SHAP%20%7C%20LIME-green?style=for-the-badge)
-
-### 💾 Data & Infrastructure
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-MLOps-0194E2?style=for-the-badge)
-![FHIR/HL7](https://img.shields.io/badge/FHIR%2FHL7-Healthcare%20Interop-red?style=for-the-badge)
-
-### 🥽 Immersive Technologies
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![OpenXR](https://img.shields.io/badge/OpenXR-MR%2FVR%2FAR-purple?style=for-the-badge)
-
-### 📡 IoT & Smart Health
-![mmWave](https://img.shields.io/badge/mmWave%20%2F%20ToF-Contactless%20Physiology-teal?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/CV-MediaPipe%20%7C%20YOLOv8-brightgreen?style=for-the-badge)
-![Edge Computing](https://img.shields.io/badge/Edge-Jetson%20Orin-darkgreen?style=for-the-badge)
-
-### 🔐 Security & Sovereignty
-![152-FZ](https://img.shields.io/badge/152--ФЗ-Compliant-red?style=for-the-badge)
-![FSTEC](https://img.shields.io/badge/ФСТЭК-Certified-darkred?style=for-the-badge)
-![Russian Cloud](https://img.shields.io/badge/Cloud-Yandex%20%7C%20Sber%20%7C%20T1-blue?style=for-the-badge)
+| Направление | Что получаете | Срок | От |
+| --- | --- | --- | --- |
+| **Лендинги и сайты** | Оффер, структура, адаптив, формы, SEO-база, публикация | 3–5 дней | 15 000 ₽ |
+| **ИИ-боты по базе знаний** | Бот для VK или Telegram: сценарии, база знаний, fallback, передача | 5–7 дней | 15 000 ₽ |
+| **Трекеры и внутренние системы** | Kanban, заявки, роли, отчёты, учёт часов, PWA | 7–14 дней | 25 000 ₽ |
+| **Калькуляторы и автоматизация** | Расчёты, обезличивание Excel/Word, отчёты, интеграции | 3–7 дней | 10 000 ₽ |
+| **Поддержка** | Хостинг, домен, бэкапы, правки, мониторинг, отчёт | помесячно | от 3 000 ₽/мес. |
 
 ---
 
-## 🔬 Научные интересы
+## Избранные кейсы
 
-- 🧬 **Предиктивная геномика** — фрактальные модели, графы атомных связей, генетические солитоны
-- 🏥 **Мультимодальная предиктивная аналитика** — интеграция генома, морфокинетики, клиники, IoT
-- 🌐 **Federated Learning в медицине** — обучение моделей без передачи персональных данных
-- 🔗 **Web3 / DLT в здравоохранении** — безопасное хранение геномных данных, аудит
-- 🎓 **Иммерсивное медицинское образование** — VR/AR/MR для отработки клинических навыков
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://mary-rnd.github.io/portfolio/"><img src="assets/cases/portfolio.webp" alt="Портфолио вайб-кодера" width="100%"></a>
+
+**Портфолио — этот сайт**<br>
+<sub>8 кейсов, фильтры, модалки, пакеты и форма заявки. Editorial-дизайн, HTML/CSS/JS, GitHub Pages.</sub><br>
+<a href="https://mary-rnd.github.io/portfolio/">Открыть</a> · <a href="https://github.com/Mary-RND/portfolio">Код</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://mary-rnd.github.io/pulse/"><img src="assets/cases/pulse.webp" alt="Pulse — командный трекер задач" width="100%"></a>
+
+**Pulse — трекер задач**<br>
+<sub>Kanban с WIP-лимитом 5, спринты, burndown, учёт часов, 4 роли. HTML/CSS/JS, localStorage.</sub><br>
+<a href="https://mary-rnd.github.io/pulse/">Демо</a> · <a href="https://github.com/Mary-RND/pulse">Код</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://mary-rnd.github.io/fieldops/"><img src="assets/cases/fieldops.webp" alt="FieldOps — заявки и выезды" width="100%"></a>
+
+**FieldOps — заявки и выезды**<br>
+<sub>PWA для диспетчеров и выездных специалистов: 4 роли, SLA-таймеры, чек-листы, акты, фото.</sub><br>
+<a href="https://mary-rnd.github.io/fieldops/">Демо</a> · <a href="https://github.com/Mary-RND/fieldops">Код</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://mary-rnd.github.io/tracker-cases/"><img src="assets/cases/trackers.webp" alt="Tracker Cases — 5 сценариев трекеров" width="100%"></a>
+
+**Tracker Cases — 5 сценариев**<br>
+<sub>Канбан, CRM, заявки, контент-план и найм: демо-трекеры для малого бизнеса.</sub><br>
+<a href="https://mary-rnd.github.io/tracker-cases/">Демо</a> · <a href="https://github.com/Mary-RND/tracker-cases">Код</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://mary-rnd.github.io/karkas-dom-calculator/"><img src="assets/cases/calculator.webp" alt="Калькулятор каркасного дома" width="100%"></a>
+
+**Калькулятор каркасного дома**<br>
+<sub>145 позиций прайса, 16 разделов, цена за м² и смета за минуту. Python + HTML/CSS/JS.</sub><br>
+<a href="https://mary-rnd.github.io/karkas-dom-calculator/">Демо</a> · <a href="https://github.com/Mary-RND/karkas-dom-calculator">Код</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://mary-rnd.github.io/plastic-surgery-landing/"><img src="assets/cases/plastic.webp" alt="3D-лендинг клиники пластической хирургии" width="100%"></a>
+
+**Пластическая хирургия — 3D-лендинг**<br>
+<sub>React Three Fiber, запись на консультацию, SEO и адаптив. Кейс медицинской клиники.</sub><br>
+<a href="https://mary-rnd.github.io/plastic-surgery-landing/">Демо</a> · <a href="https://github.com/Mary-RND/plastic-surgery-landing">Код</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Открыта к сотрудничеству
+## Ещё кейсы
 
-Ищу партнёрства с:
-- 🏥 Клиниками и научными центрами — для пилотов и совместных исследований
-- 🎓 Университетами — для R&D-проектов и публикаций
-- 💊 Фармацевтическими компаниями — для фармакогеномики и Real-World Data
-- 🏛️ Институтами развития — для масштабирования технологий
-
----
-
-## 📫 Контакты
-
-<div align="center">
-
-📧 **Email:** [mar.petrushina@yandex.ru](mailto:mar.petrushina@yandex.ru)  
-📱 **Phone:** +7 (985) 728-66-55  
-🏢 **Organization:** AI Predictive Medicine Lab (ООО «МедТехПрима»)  
-🌍 **Location:** Moscow, Russia
-
-</div>
+- [Лендинг вебинара по ИИ-аналитике](https://mary-rnd.github.io/vebinar-ii-analitik-landing/) — форма регистрации, таймер, Open Graph. [Код](https://github.com/Mary-RND/vebinar-ii-analitik-landing)
+- [Дашборд закупок MedTech](https://mary-rnd.github.io/procurement-demo/) — сравнение предложений поставщиков и сводка. [Код](https://github.com/Mary-RND/procurement-demo)
+- [Аналитика рынка инфузионных насосов](https://mary-rnd.github.io/infusion-pumps-dashboard/) — конкуренты, цены, закупки, 2025–2026. [Код](https://github.com/Mary-RND/infusion-pumps-dashboard)
+- [ИИ-бот для VK](https://github.com/Mary-RND/vk-ai-assistant) — GigaChat API, 20 сообщений контекста, fallback на менеджера.
+- [Обезличиватель данных](https://github.com/Mary-RND/data-depersonalizer) — Excel/Word, обратная конвертация по ключу, 152-ФЗ.
+- [Sport Land](https://mary-rnd.github.io/sport-land-v2-landing/) — лендинг сети фитнес-клубов: программы, тренеры, запись. [Код](https://github.com/Mary-RND/sport-land-v2-landing)
 
 ---
 
-<div align="center">
+## Как проходит работа
 
-*«Превращать медицинские данные в точные прогнозы и персонализированные решения, которые помогают врачам повышать качество и эффективность медицинской помощи.»*
+1. **Бриф, 20 минут.** Задача, пользователи, ограничения, сроки. Без брифа не берусь — чтобы не угадывать.
+2. **Структура и смета.** Разбиваю задачу на блоки, фиксирую объём, цену и критерии готовности.
+3. **Прототип.** Согласуем первый экран и логику до кода. Правки на этом этапе — бесплатно.
+4. **Сборка.** Адаптив, формы, интеграции, проверка в браузере, базовая оптимизация.
+5. **Запуск и передача.** Публикация, доступы, инструкция, 30 дней гарантии на исправление ошибок.
 
-⭐ *Если мои проекты вам интересны — ставьте звёздочки и следите за обновлениями!*
+**Оплата:** 50% в начале, 50% после сдачи. Первый круг правок включён, второй и последующие — 1 500 ₽/час.
 
-</div>## Hi there 👋
+---
 
-<!--
-**Mary-RND/Mary-RND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Почему MedTech
 
-Here are some ideas to get you started:
+- **20+ лет в медицинском бизнесе** и **10+ лет клинической практики**, MD.
+- Основатель и руководитель R&D-центра **AI Predictive Medicine Lab**.
+- Понимаю **152-ФЗ**, обезличивание данных, клинические и закупочные процессы.
+- Делаю не «сайт про медицину», а инструменты для реальных процессов: заявки, записи, аналитика, отчётность.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Пакеты
+
+| Пакет | Что входит | Цена |
+| --- | --- | --- |
+| **База** | Бриф, ТЗ, прототип, разработка, адаптив, SEO-база, первый круг правок, публикация, код и доступы, 30 дней гарантии | от 25 000 ₽ |
+| **База+** | Всё из «Базы» + хостинг, домен и бэкапы, до 2 часов правок в месяц, мониторинг, приоритетный ответ, отчёт раз в месяц | от 25 000 ₽ + от 3 000 ₽/мес. |
+
+---
+
+## Контакты
+
+- **Портфолио:** [mary-rnd.github.io/portfolio](https://mary-rnd.github.io/portfolio/)
+- **Email:** [mar.petrushina@yandex.ru](mailto:mar.petrushina@yandex.ru)
+- **WhatsApp:** [+7 985 728-66-55](https://wa.me/79857286655)
+- **GitHub:** [@Mary-RND](https://github.com/Mary-RND)
+- **География:** Москва, работаю удалённо; беру проекты по всей России.
+
+### Есть задача?
+
+Напишите в WhatsApp или на почту. Отвечу в течение дня, задам 3–5 вопросов и предложу вилку по срокам и цене. Без обязательств и «менеджерского» тона.
+
+<sub>Open to freelance projects: landing pages, AI assistants, task trackers, data automation. Remote, worldwide.</sub>
+
+<sub>Сайт и код — мои. AI — инструмент, ответственность за результат — на мне. © 2026 Марина Петрушина</sub>
