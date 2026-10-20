@@ -1,14 +1,15 @@
 <div align="center">
 
 <a href="https://mary-rnd.github.io/portfolio/">
-  <img src="assets/banner.webp" alt="Марина Петрушина — сайты, ИИ-боты и трекеры для малого бизнеса и MedTech" width="100%">
+  <img src="assets/banner.webp" alt="Марина Петрушина — сайты, ИИ-боты, трекеры и аналитика для малого бизнеса и MedTech" width="100%">
 </a>
 
 # Марина Петрушина
 
-**Вайб-кодер и веб-разработчик.** Делаю сайты, ИИ-ботов, трекеры и автоматизацию для малого бизнеса и MedTech.
+**Вайб-кодер и веб-разработчик.** Делаю сайты, ИИ-ботов, трекеры, дашборды и аналитику для малого бизнеса и MedTech.
 
-[![Портфолио](https://img.shields.io/badge/Portfolio-8%20%D0%BA%D0%B5%D0%B9%D1%81%D0%BE%D0%B2-1f6f5c?style=for-the-badge&logo=githubpages&logoColor=white)](https://mary-rnd.github.io/portfolio/)
+[![Портфолио](https://img.shields.io/badge/Portfolio-10%20%D0%BA%D0%B5%D0%B9%D1%81%D0%BE%D0%B2-1f6f5c?style=for-the-badge&logo=githubpages&logoColor=white)](https://mary-rnd.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-25%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mary-RND?tab=repositories)
 [![Telegram](https://img.shields.io/badge/Telegram-%40marypetrova6-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marypetrova6)
 [![VK](https://img.shields.io/badge/VK-%40marina__petrushina-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/marina_petrushina)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B7%20985%20728--66--55-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79857286655)
@@ -20,7 +21,9 @@
 >
 > 20+ лет в медицинском бизнесе и 10+ лет клинической практики. Понимаю, где данные, деньги и ответственность, — и собираю продукты, которые решают задачу, а не просто красиво выглядят.
 
-**Стек:** HTML/CSS/JS · React · Next.js · TypeScript · Three.js · Python · GigaChat и OpenAI API · VK/Telegram-боты · GitHub Pages.
+**Стек:** HTML/CSS/JS · React · Next.js · TypeScript · Three.js / React Three Fiber · Tailwind CSS · Python · pandas · SQLite · PWA · GitHub Pages.
+
+**ИИ:** GigaChat · OpenAI · Qwen · DeepSeek · Claude · Gemini · Ollama · RAG и базы знаний · боты Telegram и VK.
 
 ---
 
@@ -45,7 +48,7 @@
 <a href="https://mary-rnd.github.io/portfolio/"><img src="assets/cases/portfolio.webp" alt="Портфолио вайб-кодера" width="100%"></a>
 
 **Портфолио — этот сайт**<br>
-<sub>8 кейсов, фильтры, модалки, пакеты и форма заявки. Editorial-дизайн, HTML/CSS/JS, GitHub Pages.</sub><br>
+<sub>10 кейсов, фильтры, модалки, пакеты и форма заявки. Editorial-дизайн, HTML/CSS/JS, GitHub Pages.</sub><br>
 <a href="https://mary-rnd.github.io/portfolio/">Открыть</a> · <a href="https://github.com/Mary-RND/portfolio">Код</a>
 
 </td>
@@ -103,8 +106,23 @@
 
 ---
 
+## Медицина и аналитика
+
+Отдельное направление: клиники, медизделия, данные и закупки.
+
+- **[MedTech-лендинг](https://mary-rnd.github.io/medtech-landing/)** — сайты практик, ИИ-боты записи, дашборды закупок и обезличивание данных. Медицинская палитра, 152-ФЗ. [Код](https://github.com/Mary-RND/medtech-landing)
+- **[Сайт пластического хирурга](https://mary-rnd.github.io/plastic-surgery-landing/)** — Next.js, React Three Fiber, 3D-герой и прайс.
+- **[Дашборд закупок MedTech](https://mary-rnd.github.io/procurement-demo/)** — сравнение предложений поставщиков и сводка по закупкам.
+- **[Рынок инфузионных насосов](https://mary-rnd.github.io/infusion-pumps-dashboard/)** — 200 сделок, 108 больниц, 59 регионов: лидеры, цены и спрос.
+- **[Обезличиватель данных](https://github.com/Mary-RND/data-depersonalizer)** — Excel/Word, офлайн, обратная конвертация по ключу.
+
+**Фокус:** 152-ФЗ, клинические процессы, аналитика закупок и KPI.
+
+---
+
 ## Ещё кейсы
 
+- [MedTech-лендинг](https://mary-rnd.github.io/medtech-landing/) — отдельная посадочная для клиник: сайты, боты, дашборды и работа с данными. [Код](https://github.com/Mary-RND/medtech-landing)
 - [Task Dispatcher — командный центр входящих задач](https://mary-rnd.github.io/task-dispatcher/) — KPI, фокус дня, нагрузка команды, поиск дублей и сводка для планёрки. [Код](https://github.com/Mary-RND/task-dispatcher)
 - [EventFlow — участники мероприятия](https://mary-rnd.github.io/eventflow/) — CRUD, поиск и фильтры, импорт CSV с предпросмотром ошибок, бэкапы JSON. [Код](https://github.com/Mary-RND/eventflow)
 - [Route Planner — планировщик путешествий](https://mary-rnd.github.io/route-planner/) — маршрут по дням, бюджет, бронирования и чек-лист, офлайн. [Код](https://github.com/Mary-RND/route-planner)
@@ -113,9 +131,9 @@
 - [Аналитика рынка инфузионных насосов](https://mary-rnd.github.io/infusion-pumps-dashboard/) — конкуренты, цены, закупки, 2025–2026. [Код](https://github.com/Mary-RND/infusion-pumps-dashboard)
 - [ИИ-бот для VK](https://github.com/Mary-RND/vk-ai-assistant) — GigaChat API, 20 сообщений контекста, fallback на менеджера.
 - [Обезличиватель данных](https://github.com/Mary-RND/data-depersonalizer) — Excel/Word, обратная конвертация по ключу, 152-ФЗ.
-- [Sport Land](https://mary-rnd.github.io/sport-land-v2-landing/) — лендинг сети фитнес-клубов: программы, тренеры, запись. [Код](https://github.com/Mary-RND/sport-land-v2-landing)
+- [SportLand v2](https://mary-rnd.github.io/sport-land-v2-landing/) — лендинг вебинара «5 привычек»: прогрев, программа, кейсы до/после, форма записи. [Код](https://github.com/Mary-RND/sport-land-v2-landing)
 
-[Все публичные проекты →](https://github.com/Mary-RND?tab=repositories)
+[Все публичные проекты →](https://github.com/Mary-RND?tab=repositories) · 25 репозиториев, 19 публичных.
 
 ---
 
@@ -136,7 +154,8 @@
 - **20+ лет в медицинском бизнесе** и **10+ лет клинической практики**, MD.
 - Основатель и руководитель R&D-центра **AI Predictive Medicine Lab**.
 - Понимаю **152-ФЗ**, обезличивание данных, клинические и закупочные процессы.
-- Делаю не «сайт про медицину», а инструменты для реальных процессов: заявки, записи, аналитика, отчётность.
+- Делаю не «сайт про медицину», а инструменты для реальных процессов: заявки, записи, закупки, аналитика, отчётность.
+- **Аналитика:** дашборды закупок, рынка и KPI — на данных, а не на ощущениях.
 
 ---
 
@@ -152,6 +171,7 @@
 ## Контакты
 
 - **Портфолио:** [mary-rnd.github.io/portfolio](https://mary-rnd.github.io/portfolio/)
+- **MedTech-лендинг:** [mary-rnd.github.io/medtech-landing](https://mary-rnd.github.io/medtech-landing/)
 - **Telegram:** [@marypetrova6](https://t.me/marypetrova6)
 - **VK:** [@marina_petrushina](https://vk.com/marina_petrushina)
 - **WhatsApp:** [+7 985 728-66-55](https://wa.me/79857286655)
