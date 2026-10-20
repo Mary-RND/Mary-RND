@@ -9,7 +9,7 @@
 **Вайб-кодер и веб-разработчик.** Делаю сайты, ИИ-ботов, трекеры, дашборды и аналитику для малого бизнеса и MedTech.
 
 [![Портфолио](https://img.shields.io/badge/Portfolio-10%20%D0%BA%D0%B5%D0%B9%D1%81%D0%BE%D0%B2-1f6f5c?style=for-the-badge&logo=githubpages&logoColor=white)](https://mary-rnd.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-25%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mary-RND?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-26%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mary-RND?tab=repositories)
 [![Telegram](https://img.shields.io/badge/Telegram-%40marypetrova6-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marypetrova6)
 [![VK](https://img.shields.io/badge/VK-%40marina__petrushina-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/marina_petrushina)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B7%20985%20728--66--55-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79857286655)
@@ -133,7 +133,7 @@
 - [Обезличиватель данных](https://github.com/Mary-RND/data-depersonalizer) — Excel/Word, обратная конвертация по ключу, 152-ФЗ.
 - [SportLand v2](https://mary-rnd.github.io/sport-land-v2-landing/) — лендинг вебинара «5 привычек»: прогрев, программа, кейсы до/после, форма записи. [Код](https://github.com/Mary-RND/sport-land-v2-landing)
 
-[Все публичные проекты →](https://github.com/Mary-RND?tab=repositories) · 25 репозиториев, 19 публичных.
+[Все публичные проекты →](https://github.com/Mary-RND?tab=repositories) · 26 репозиториев, 20 публичных.
 
 ---
 
